@@ -1,8 +1,7 @@
 ---
 title: Introduction
-description: What Pages CMS is, who it is for, and how it works.
+description: What Pages CMS is, who it is for, and how it works.2026
 ---
-
 ## What Pages CMS is
 
 [Pages CMS](https://pagescms.org) is an open-source CMS for static sites stored in GitHub repositories.
@@ -36,13 +35,4 @@ Pages CMS does not replace your site generator, deployment platform, or reposito
 
 It only provides the editing layer on top of your existing Git-based project.
 
-<div class="flex flex-wrap gap-2 my-6">
-  <a href="/docs/quick-start/" class="badge-outline">
-    Quick start
-    {% lucide "arrow-right" %}
-  </a>
-  <a href="/docs/configuration" class="badge-outline">
-    Configuration overview
-    {% lucide "arrow-right" %}
-  </a>
-</div>
+[Quick start {% lucide "arrow-right" %} Configuration overview {% lucide "arrow-right" %}](/docs/configuration)
